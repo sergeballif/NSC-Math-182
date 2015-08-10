@@ -1,2 +1,2 @@
 # NSC-Math-181
-Guided Practice Assignments for Calculus 1
+Course Links and content for Calculus 1
