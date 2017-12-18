@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title> by </title>
+    <link href='https://fonts.googleapis.com/css?family=Arvo:400,700,400italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <script src="/assets/js/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      tex2jax: {
+        inlineMath: [ ['$', '$'], ["\\(", "\\)"] ],
+        displayMath: [ ['$$', '$$'], ["\\[", "\\]"] ],
+        processEscapes: true,
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+      //,
+      //displayAlign: "left",
+      //displayIndent: "2em"
+    });
+        </script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?...">
+</script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header"></h1>
+        <p class="header"></p>
+
+        <ul>
+          <li><a href="/NSC-Math-182/index.html">Schedule</a></li>
+          <li><a href="/NSC-Math-182/Syllabus.html">Syllabus</a></li>
+          <li><a href="/NSC-Math-182/Specifications.html">Specifications</a></li>
+        </ul>
+      </header>
+
+      <section>
+        <h1 id="guided-practice-for-53-integration-by-substitution">Guided Practice for 5.3: Integration by Substitution</h1>
+
+<h2 id="overview">Overview</h2>
+
+<p>Here we are concerned with finding algebraic formulas for antiderivatives of more complicated algebraic functions. We do this through a technique called $u$-substitution which allows us to “undo” a chain rule. This is the first (and most important) advanced integration technique in any calculus course.</p>
+
+<h2 id="learning-objectives">Learning objectives</h2>
+
+<p><strong>Basic objectives</strong>: Each student is responsible for gaining proficiency with each of these tasks <em>prior</em> to engaging in class discussions, through the use of the learning resources (below) and through the working of exercises (also below).</p>
+
+<ul>
+  <li>Know the chain rule forwards and backwards.</li>
+  <li>Be able to find an antiderivative of a simple composition of functions such as $\int \cos(2x)\,dx$ without using a $u$-substitution.</li>
+</ul>
+
+<p><strong>Advanced objectives</strong>: The following objectives are the subject of class discussion and further work; they should be mastered by each student <em>during</em> and <em>following</em> class discussions.</p>
+
+<ul>
+  <li>Be able to use a $u$-substitution to evaluate a complicated integral such as $\int \frac{x}{1+x^2}\,dx$.</li>
+  <li>Know how to change the bounds of integration on a definite integral when using a $u$-substition.</li>
+  <li>Make substitutions in multiple places on a complicated integral such as $\int x\sqrt{x-1}\,dx$.</li>
+</ul>
+
+<h2 id="learning-resources">Learning resources</h2>
+
+<p>To gain proficiency in the learning objectives, use the following resources. You may include other resources if you wish, in addition to or in replacement of the following.</p>
+
+<p><strong>Textbook</strong>: In <em>Active Calculus</em>, read Section 5.3. Make sure to read actively, working through examples and activities as you go.</p>
+
+<p><strong>Video</strong>: Watch the following videos.</p>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=uTT6e-yXZyA&amp;list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&amp;index=9">Quick Recap- Integration by Substitution</a> (3:28)</li>
+  <li><a href="https://www.youtube.com/watch?v=p_z5AU2z4DI&amp;list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&amp;index=10">Integration by Substitution Example 1</a> (3:44)</li>
+  <li><a href="https://www.youtube.com/watch?v=G7zJdIpXIq8&amp;list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&amp;index=11">Integration by Substitution Example 2</a> (3:51)</li>
+  <li><a href="https://www.youtube.com/watch?v=_Y-01MZOebQ&amp;list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&amp;index=12">Integration by Substitution Example 3</a> (4:43)</li>
+  <li><a href="https://www.youtube.com/watch?v=NjcjFwX653s&amp;list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&amp;index=13">Integration by Substitution Example 4</a> (4:20)</li>
+  <li><a href="https://www.youtube.com/watch?v=YPle_z6tOeY&amp;list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&amp;index=14">Integration by Substitution Example 5</a> (3:41)</li>
+  <li><a href="https://www.youtube.com/watch?v=Iia2ZdvYFIc&amp;list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&amp;index=15">Integration by Substitution Example 6</a> (3:09)</li>
+</ul>
+
+<h2 id="activities">Activities</h2>
+
+<p>The following activity is to be done <em>during</em> and <em>following</em> your reading and viewing of the resources. Go to <a href="https://student.desmos.com/?prepopulateCode=BKV9C">student.desmos.com</a> and enter the code <code class="highlighter-rouge">BKV9C</code> along with your name in the format <code class="highlighter-rouge">Last, First</code>. For example, I would enter my name as <code class="highlighter-rouge">Ballif, Serge</code>. Complete each part of the activity. Some of these problems will require you to work them out on paper before entering your answer. Practice producing high quality work so that your work is readable and meaningful. You will receive a mark of <strong>Pass</strong> if each item response shows a good-faith effort to be right and is submitted prior to the deadline. <strong>Remember to use the Piazza discussion board to ask about any questions you have.</strong></p>
+
+      </section>
+
+      <footer>
+       <!-- <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p> -->
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
