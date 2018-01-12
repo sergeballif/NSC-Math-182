@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Math 181 Syllabus
+title: Math 182 Syllabus
 published: true
 ---
 
@@ -9,86 +9,88 @@ published: true
 __Instructor:__ Serge Ballif  
 __Email:__ Please use the Piazza discussion board in the left panel of Canvas.  
 __Telephone:__ (702) 992-2613  
-__Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my office any time for help. 
+__Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my office any time for help.
 
 ## Course Learning Outcomes
-A successful Math 181 student will demonstrate evidence of mastery of each of the following learning  outcomes:
+A successful Math 182 student will demonstrate evidence of mastery of each of the following learning  outcomes:
 
-1. Calculate and Interpret Average Rates of Change<br>
-    * Numerically calculate an average rate of change from context.
-    * Use correct units.
-    * Explain the meaning of an average rate of change in context.
-    * Describe the visual representation of average rates of change.
+1. Integrals by Substitution
+    * Identify problems where substitution would be an appropriate technique.
+    * Carry out the $u$-substitution.
+    * Use substitution for both definite and indefinite integrals.
 
-2. Approximating Instantaneous Rates of Change
-    - Accurately describe average rates of change as approximations for the derivative (instantaneous rate of change).
-    - Determine and explain when average rates of change are under or overestimates.
-    - Demonstrate
+2. Integration by Parts
+    * Identify problems where integration by parts would be an appropriate technique.
+    * Carry out integration by parts using neatly organized work.
+    * Use integration by parts for both definite and indefinite integrals.
 
-3. Linearization and Approximations
-    * Use the derivative to approximate values of a function.
-    * Recognize when a function is not locally linear and include a prcise explanation of why. 
+3. Partial Fraction Decomposition and Other Techniques
+    * Use partial fractions to rewrite expressions as a sum of more fundamental terms.
+    * Use partial fractions to evaluate both definite and indefinite integrals.
+    * Recognize and implement appropriate techniques to anti-differentiate products of  trigonometric functions.
 
-4. Interpretation of the Derivative
-   * Describe the units of the derivative.
-   * Explain the meaning of values of the derivative in context (with complete sentences).
-   * Interpret the value of the derivative as the slope of the tangent line at a point. 
+4. Numerical Integration
+   * Use left, right, and midpoint Riemann sums to estimate the values of a definite integral.
+   * Use the trapezoid rule to estimate the area under a curve.
+   * Use Simpson's rule to estimate the area under a curve.
 
-5. Relationships between a function and its derivative. 
-   * Given a function, be able to sketch the derivative function.
-   * Explain the relationships between functions and their derivative (using words like increasing, decreasing, positive, negative, concave up, and conecave down) using tables of data, graphs, or functinos.
-   * Use the derivative to find local minimum and maximum values and interpret these points in context.
+5. Find the area of a region bounded between curves.
+   * Set up integrals that yield the area of a bounded region.
+   * Know when to integrate with respect to $x$ or with respect to $y$.
 
-6. Basic Derivative Rules
-   * Calculate the derivatives of polynomials, exponential functions, logarithmic functions, and trigonometric functions.
+6. Length of a Curve
+   * Express the length of a curve as a Riemann sum of linear segments.
+   * Find the length of a curve using a definite integral.
 
-7. Product and Quotient Rule
-   * Calculate the derivative of products or quotients of functions
-   * Symbolically apply the product and quotient rules when explicit functions are not given.
-  
-8. Chain Rule
-   * Calculate the derivatives of compositions of functions
-   * Find and interpret derivatives of implicit functions.
+7. Use Integrals to find Volume
+   * Use the method of cylindrical shells to find the volume of a surface of revolution.
+   * Use the disc method to find the volume of a surface of revolution.
+   * Recognize whether to set up the integrals with respect to $x$ or $y$.
 
-9. Intervals of Increase and Decrease
-    * Identify intervals where a function is increasing or decreasing.
-    * Use a calculus-based test to find minimum and maximum values of a function.
+8. Physics Applications
+   * Find the mass and center of mass of a region with a given density.
+   * Calculate the amount of work accomplished by a force.
 
-10. Concavity and Inflection Points
-    * Identify intervals where a function is concave up or concave down.
-    * Find and interpret inflection points in the context of a problem. 
-    * Use a calculus-based test to justify conclusions
+9. Improper Integrals
+    * Explain what it means for an improper integral to converge.
+    * Determine convergence of improper integrals with discontinuities in their domain or  infinite limits of integration
+    * Evaluate improper integrals.
 
-11. Related Rates
-    * Describe the relationship between the rate of change of a composition of functions and the rates of change of the composed functions.
-    * Find the rate of change of a quantity by knowing the rate of change of a related quantity.
-    * Accurately summarize a solution to a related rates problem with a sentence that includes units.
+10. Parametric Curves
+    * Represent a function a function as parametric equations.
+    * Find the length of a curve segment from its parametric form.
+    * Find the slope of a parametric curve at a given point.
 
-12. Optimization
-    * Use the derivative to find minimum and maximum values of a function in context.
-    * Find reasonable domains for functinos in context, and find the maxima and minima on these restricted domains. 
-    * Accurately summarize and interpret a solution to an optimization problem with a sentence (including units).
+11. Polar Curves
+    * Convert between polar coordinates to Cartesian coordinates and plot basic graphs.
+    * Find the slope of a polar curve at a given point.
+    * Find the area enclosed by a polar curve.
 
-13. Compute and Interpret Riemann Sums
-    * Use Riemann Sums to approximate accumulations in context.
-    * Use correct units.
-    * Explain the meaning of a Riemann sum calculation in context and any simplifying assumptions made to construct the sum.
+12. Differential Equations
+    * Use the a slope field to obtain qualitative information about solutions to a differential equation.
+    * Use Euler's method to approximate the solution to an intial value problem.
+    * Solve Separable differential equations.
 
-14. Meaning of the Definite Integral
-    * Construct and expression for the definite integral.
-    * Explain the meaning of a definite integral in context.
-    * Interpret a definite integral as an area.
+13. Modeling with Differential Equations
+    * Set up an initial value problem to model a changing quantity.
+    * Use exponential and logistic models to model population growth.
 
-15. Evaluate Definite Integrals.
-    * Calculate the antiderivative of a function using the reverse of basic derivative rules.
-    * Calculate the value of a definite integral using the Fundamental Theorem of Calculus.
+14. Sequences of numbers
+    * Know what it means for a sequence to converge or diverge.
+    * Use the concept of the limit at infinity to determine whether a sequence of real numbers  is bounded and whether it converges or diverges
 
-16. Antiderivatives
-    * Find antiderivatives of power functions, exponential functions, and trigonometric functions.
-    * Use $u$-substitution to evaluate integrals. 
+
+15. Series of numbers
+    * Evaluate the exact value of a geometric series.
+    * Apply tests of convergence to identify whether a given series converges or diverges.
+
+16. Taylor Series
+    * Find a Taylor polynomial that approximates a given function.
+    * Find a power series expansion of a function.
+    * Identify intervals of convergence for a power series.
 
 ## Quick Grade Summary
-Look at the checklist below. The short version is that you want to get as many checkmarks in each of the seven categories as possible. Hover and click on the image below for a quick summary of each category. The [Schedule](NSC-Math-181/index.html) tells when outside work is due and the [Specifications](NSC-Math-181/Specifications.html) give the details on how to get a checkmark. 
+Look at the checklist below. The short version is that you want to get as many checkmarks in each of the seven categories as possible. Hover and click on the image below for a quick summary of each category. The [Schedule](NSC-Math-182/index.html) tells when outside work is due and the [Specifications](NSC-Math-182/Specifications.html) give the details on how to get a checkmark.
 
 <img style="max-width:100%" src="//cdn.thinglink.me/api/image/692942659517415426/1024/10/scaletowidth#tl-692942659517415426;1043138249'" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
 
@@ -121,13 +123,13 @@ through Guided Practice.
   - __Desmos Activity__ Students will create a Desmos account at [https://teacher.desmos.com](https://teacher.desmos.com) and create a lesson activity that illustrates one of the core objectives of the class.
 
 __Grading System__
-Math 181 uses a **points-free mastery-based grading system** that is designed to provide you with control over the grading process, transparency as to your progress toward a course grade, and a final course grade that truly reflects your actual mastery of course concepts. Our grading system works as follows:
+Math 182 uses a **points-free mastery-based grading system** that is designed to provide you with control over the grading process, transparency as to your progress toward a course grade, and a final course grade that truly reflects your actual mastery of course concepts. Our grading system works as follows:
 
 * At the beginning of the semester, you will be asked to decide on the target grade you plan to earn for the course. This does not need to be an “A”. You’ll be asked to carefully consider your goals, skill set, life situation, academic needs, and so on before stating your target grade. For some students, a “B” or even a “C” is perfectly sufficient and realistic, relative to their situation.
 * **The means of assessing your graded work in the class is done without using points**. Instead, your work is graded on a two-level scale of **Pass/No Pass** or on a three level scale of **Mastery/Progressing/Novice**. Whenever you submit work to be graded, I will employ my best professional judgment along with a clear list of specifications for categorizing that work. The specifications for your work are provided in a separate document, and you should make yourself intimately familiar with that document. Your Guided Practice, WeBWorK Homework, WeBWorK Journals, and Daily Quizzes are graded on a Pass/No Pass basis; Problems, Miniprojects, and Teaching Items are graded using Mastery/Progressing/Novice designations.
 * The grade you earn at the end of the semester is determined by counting the number of items in each category that you complete at an acceptable level . There are no points involved and no statistical or numerical calculations.
 
-The table for determining your grade is given below. For reference: there are a total of 24 problems and miniprojects, 10 of which are considered core and 14 of which are outside the core. Also, there will be 27 daily quizzes, 27 guided practice assignments, and 220 points of online homework. See the [Specifications for Student Work](NSC-Math-181/Specifications.html) page to see what it means to obtain a __Pass__ or a __Mastery__.
+The table for determining your grade is given below. For reference: there are a total of 24 problems and miniprojects, 10 of which are considered core and 14 of which are outside the core. Also, there will be 27 daily quizzes, 27 guided practice assignments, and 220 points of online homework. See the [Specifications for Student Work](NSC-Math-182/Specifications.html) page to see what it means to obtain a __Pass__ or a __Mastery__.
 
 #### To earn an A
 * Complete the Getting Started assignment in week 1, AND
@@ -166,18 +168,18 @@ __Plus/Minus grading:__ In case not all of your attainments in the class are at 
 
 * Example : A student who has passed Getting Started passed 23 Guided Practice assignments (B level), 16 Daily Quizzes (C level), scored 188 points on WeBWorK (B level), passed two WeBWorK Journals (B level) attained mastery on all 10 core problems/miniprojects but only 6 more problems/miniprojects (B level) and completed 2 Teaching Items (B level) receives a B-- since the Daily Quizzes level was the lowest level but the only one at that level.
 ![A Grade Checklist](images/GradeChecklistExample1.PNG)
-* Example : A student who has passed Getting Started passed 24 Guided Practice assignments (B level), 22 Daily Quizzes (A level), scored 206 points on WeBWorK (A level), passed three WeBWorK Journals (A level) attained mastery on all 10 core problems/miniprojects but only 6 more problems/miniprojects (B level) and completed 3 Teaching Items (B level) receives a B+ since there were two components at a B level while all the others were at A level. 
+* Example : A student who has passed Getting Started passed 24 Guided Practice assignments (B level), 22 Daily Quizzes (A level), scored 206 points on WeBWorK (A level), passed three WeBWorK Journals (A level) attained mastery on all 10 core problems/miniprojects but only 6 more problems/miniprojects (B level) and completed 3 Teaching Items (B level) receives a B+ since there were two components at a B level while all the others were at A level.
 ![A Grade Checklist](images/GradeChecklistExample2.PNG)
 
 Please note that NSC does not award grades of A+ or D-.
 
-__Revisions:__ Instead of partial credit, you will receive numerous opportunities to revise and resubmit work that does not meet the specifications for Passing or Mastery. Specifically: 
+__Revisions:__ Instead of partial credit, you will receive numerous opportunities to revise and resubmit work that does not meet the specifications for Passing or Mastery. Specifically:
 
 * Online homework gives instant feedback on correctness when you submit it. **You are allowed unlimited reattempts on every online homework item** until the due date.
 * **Each Daily Quiz can be attempted twice without penalty** (an initial attempt + one reattempt in my office). Further reattempts can be “purchased” using tokens (see below).
 * Problems are assessed on Midterm and Final exams. Each of the Midterm Exams past the first one as well as the Final Exam is cumulative . The first midterm exam will have four problems on it, the second one eight problems, the third around twelve, and the fourth midterm and final will include all 17 problems. **In this way if you do not perform well on a problem on one midterm exam, you can try again on a subsequent one.** Conversely, once you finish enough problems at Mastery level for the grade you want, you can opt out of the exams. It’s not uncommon for many students not to take the final exam because they have already “leveled up” to their target grade by the time of the exam.
 * **Any miniproject submission that does not attain Mastery level can be revised and resubmitted for regrading.** You can submit up to one miniproject per week for regrading (in addition to any new submissions). Miniprojects that attain Progressing level can be resubmitted without penalty. Miniprojects assessed at Novice level can be resubmitted if you spend a token (below).
-* 
+*
 _Note_: Guided Practice assignments may not be revised or submitted late. These must be completed at the stated deadline or they receive a permanent No Pass.
 
 __Tokens:__ Each student will be given five “tokens” at the beginning of the term. Each token can be cashed in for one of the following:  
@@ -196,8 +198,8 @@ __Notes about this grading system:__ The advantages of this grading system are n
 * It directly links the grade you earn to the amount and quality of work that you do.
 * It gives a final grade that communicates real information about your mastery of the subject.
 * Finally, it allows you to be graded on what you eventually master, so that early missteps do not have to have a major negative future impact.
- 
-The chief downside to this system is that it’s complicated. You can download my [sample gradebook](images/SampleMath181Gradebook.xlsx) to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
+
+The chief downside to this system is that it’s complicated. You can download my [sample gradebook](images/SampleMath182Gradebook.xlsx) to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
 
 ## What are the consequences of missing class?
 
