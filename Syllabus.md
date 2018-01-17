@@ -92,7 +92,7 @@ A successful Math 182 student will demonstrate evidence of mastery of each of th
 ## Quick Grade Summary
 Look at the checklist below. The short version is that you want to get as many checkmarks in each of the seven categories as possible. Hover and click on the image below for a quick summary of each category. The [Schedule](NSC-Math-182/index.html) tells when outside work is due and the [Specifications](NSC-Math-182/Specifications.html) give the details on how to get a checkmark.
 
-<img style="max-width:100%" src="//cdn.thinglink.me/api/image/692942659517415426/1024/10/scaletowidth#tl-692942659517415426;1043138249'" class="alwaysThinglink"/><script async charset="utf-8" src="//cdn.thinglink.me/jse/embed.js"></script>
+![Grading Summary](assets/images/GradeSummarySp18.PNG)
 
 The rest of the syllabus explains more details about what these categories are.
 
@@ -167,9 +167,9 @@ The table for determining your grade is given below. For reference: there are a 
 __Plus/Minus grading:__ In case not all of your attainments in the class are at the same grade level, we will figure plus/minus grades as follows. Note there are seven overall categories of work you will do: Getting Started, Guided Practice, Leading Discussions, Concept Checks, CORE-M Assessments, Mastery Problems, and Teaching Items.  First, find your category at which you have attained the lowest level of work. If that is the only category at this level, you will receive a “minus” grade for the next level up. If there are two categories at the lowest level you will receive a “plus” grade. Otherwise (more than two categories at that lowest level) you will receive the grade of your lowest level.
 
 * Example : A student who has passed Getting Started passed 23 Guided Practice assignments (B level), 16 Daily Quizzes (C level), scored 188 points on WeBWorK (B level), passed two WeBWorK Journals (B level) attained mastery on all 10 core problems/miniprojects but only 6 more problems/miniprojects (B level) and completed 2 Teaching Items (B level) receives a B-- since the Daily Quizzes level was the lowest level but the only one at that level.
-![A Grade Checklist](assets/images/GradeChecklistExample1.PNG)
+![A Grade Checklist](assets/images/GradeChecklistExample1.png)
 * Example : A student who has passed Getting Started passed 24 Guided Practice assignments (B level), 22 Daily Quizzes (A level), scored 206 points on WeBWorK (A level), passed three WeBWorK Journals (A level) attained mastery on all 10 core problems/miniprojects but only 6 more problems/miniprojects (B level) and completed 3 Teaching Items (B level) receives a B+ since there were two components at a B level while all the others were at A level.
-![A Grade Checklist](assets/images/GradeChecklistExample2.PNG)
+![A Grade Checklist](assets/images/GradeChecklistExample2.png)
 
 Please note that NSC does not award grades of A+ or D-.
 
