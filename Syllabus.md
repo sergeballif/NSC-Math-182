@@ -98,7 +98,7 @@ The rest of the syllabus explains more details about what these categories are.
 
 ## Course Materials
 __Textbook:__ _Active Calculus_ by Matt Boelkins et al. This is a free PDF download at
-[http://gvsu.edu/s/xr](http://gvsu.edu/s/xr). If you would like a print copy, see the link at the bottom of that page. We will be working through Sections 1.1--5.3 of this textbook.
+[http://gvsu.edu/s/xr](http://gvsu.edu/s/xr) or on the web at http://gvsu.edu/s/0uo. If you would like a print copy, see the link at the bottom of that page. We will be working through Sections 5.3--8.6 of this textbook (and adding two additional topics).
 __Video materials:__ All course pre-lectures are on a YouTube playlist at [http://bit.ly/GVSUCalculus](http://bit.ly/GVSUCalculus).
 __Software:__ The course uses three software tools:
 
@@ -115,12 +115,9 @@ The work you do in the course has two purposes: To help you make sense of the co
 through Guided Practice.
 * __WeBWorK Journal:__ Students will record their work on WeBWorK homework problems following the specification guidelines.
 * __Daily Quizzes:__ At the beginning of each class period where we begin lecture on a new section we will have a quiz to assess how well you have mastered the material of the previous day.
-* __Problems:__ The objectives of the course can be broken down into 17 distinct types of problems. Samples of these 17 types are posted to the Blackboard site. Within these 17 types are 6 types that are labeled core , and 11 that are outside the core. These problems are more complex and challenging than those found on Guided Practice, Online Homework, or Concept Quizzes and include elements of each of these. Your ability to solve these problems will be assessed through three Midterm Exams and a Final Exam, described more fully below.
-* __Miniprojects:__  In addition to the Problems, eight miniprojects that involve using course technology are available, with 4 of those 8 labelled as core and 4 more outside the core. Miniprojects focus on realworld applications and the use of realworld data and, especially, the use of technology to model and solve problems involving calculus.
-* __Teaching Items:__ Finally, to demonstrate mastery of core objectives students will be asked to create three lessons that show that they have mastered the material and are able to communicate it in a thorough and efficient way to an audience of their classmates. Students can complete one project of the types:
-  - __Texting Lesson__ Students can create a mock question-and-answer session where a teacher teaches the students one of the core lessons of the class.
-  - __Video Lesson__ The student will create a screencast video (or some other type of lesson video) summarizing one of the sections of the book.
-  - __Desmos Activity__ Students will create a Desmos account at [https://teacher.desmos.com](https://teacher.desmos.com) and create a lesson activity that illustrates one of the core objectives of the class.
+* __Problems:__ The objectives of the course can be broken down into 17 distinct types of problems. Samples of these 16 types are posted to the Blackboard site. Within these 16 types. These problems are more complex and challenging than those found on Guided Practice, Online Homework, or Concept Quizzes and include elements of each of these. Your ability to solve these problems will be assessed through three Midterm Exams and a Final Exam, described more fully below.
+* __Miniprojects:__  In addition to the Problems, eleven miniprojects that involve using course technology are available, with 4 of those 8 labelled as core and 4 more outside the core. Miniprojects focus on realworld applications and the use of realworld data and, especially, the use of technology to model and solve problems involving calculus.
+
 
 __Grading System__
 Math 182 uses a **points-free mastery-based grading system** that is designed to provide you with control over the grading process, transparency as to your progress toward a course grade, and a final course grade that truly reflects your actual mastery of course concepts. Our grading system works as follows:
