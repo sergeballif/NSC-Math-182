@@ -196,7 +196,7 @@ __Notes about this grading system:__ The advantages of this grading system are n
 * It gives a final grade that communicates real information about your mastery of the subject.
 * Finally, it allows you to be graded on what you eventually master, so that early missteps do not have to have a major negative future impact.
 
-The chief downside to this system is that it’s complicated. You can download my [sample gradebook](images/SampleMath182Gradebook.xlsx) to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
+The chief downside to this system is that it’s complicated. You can download my [sample gradebook](assets/images/Math182Gradebook.xlsx) to track your progress through the course to help make it easier. And if you have any questions or concerns about the system, please let me know.
 
 ## What are the consequences of missing class?
 
