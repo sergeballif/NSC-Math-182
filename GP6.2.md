@@ -13,27 +13,26 @@ In this section we learn how we can we use definite integrals to measure the are
 
 __Basic objectives__: Each student is responsible for gaining proficiency with each of these tasks _prior_ to engaging in class discussions, through the use of the learning resources (below) and through the working of exercises (also below).
 
-- Be comfortable plotting functions given by a formula.
-- Be able to plot all the basic parent functions.
-- Know Pythagorean Theorem and be able to use it when the lengths are variables.
+- Know the basic formulas for area and circumference of a circle.
+- Be able to draw a 3D figure obtained by rotating a curve around an axis.
 
 __Advanced objectives__: The following objectives are the subject of class discussion and further work; they should be mastered by each student _during_ and _following_ class discussions.
 
-- Find the area bounded between two curves given by formulas.
-- Find the length of a segment of a curve using calculus.
+- Use the washer method to find the volume of a surface of revolution.
+- Use the shell method to find the folumne of a surface of revolution.
 
 ## Learning resources
 
 To gain proficiency in the learning objectives, use the following resources. You may include other resources if you wish, in addition to or in replacement of the following.
 
-__Textbook__: In _Active Calculus_, read Section 6.1. Make sure to read actively, working through examples and activities as you go.
+__Textbook__: In _Active Calculus_, read Section 6.2. Make sure to read actively, working through examples and activities as you go.
 
 __Video__: Watch the following videos.
 
-- [Definite Integrals to find Area and Length](https://www.youtube.com/watch?v=argJPpTwMXY&list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&index=28) (5:46)
-- [Finding the Area Between Two Curves](https://www.youtube.com/watch?v=UR-eccbRwDo&list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&index=29) (6:41)
-- [Another Example of Finding the Area](https://www.youtube.com/watch?v=N9wfeWjKiHw&list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&index=30) (8:54)
-- [Arc Length](https://www.youtube.com/watch?v=oHyYcAICxYE&list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&index=31) (4:21)
+- [Quick Recap - Using definite integrals to find volume](https://www.youtube.com/watch?v=JIQ8z4zVZZI&list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&index=32) (5:02)
+- [Volume by slicing](https://www.youtube.com/watch?v=ezLJdcfDUbY&list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&index=33) (6:52)
+- [Volume of a Solid](https://www.youtube.com/watch?v=caQHTJ0pPoI&list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&index=34) (4:54)
+- [Revolve around the $y$-axis](https://www.youtube.com/watch?v=-AXN2SEF4lM&list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&index=35) (4:31)
 
 ## Activities
 
