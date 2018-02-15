@@ -27,15 +27,15 @@ Feb 16 | [6.3](/NSC-Math-182/GP6.3.html)               | 6.2, [Miniproject 3](ht
        | **Week 6**                                    |
 Feb 19 | Holiday                                       |
 Feb 21 | [6.4](/NSC-Math-182/GP6.4.html)               | 6.3
-Feb 23 | [6.5](/NSC-Math-182/GP6.5.html)               | 6.4, [Miniproject 5](https://hackmd.io/KwZgpgJgRgHDIFpgBZgGMHLWg7AgnAGZYKEBMADNvjGAIZTJRA==?view)
+Feb 23 | [6.5](/NSC-Math-182/GP6.5.html)               | 6.4, [Miniproject 4](https://hackmd.io/KwZgpgJgRgHDIFpgBZgGMHLWg7AgnAGZYKEBMADNvjGAIZTJRA==?view)
        | **Week 7**                                    |
 Feb 26 | 6.5 continued                                 |
 Feb 28 | Review                                        | 6.5
-Mar 2  | Midterm 2                                     |[Miniproject 6](https://hackmd.io/KwZgpgJgRgHDIFpgBZgGMHLWg7AgnAGZYKEBMADNvjGAIZTJRA==?view)
+Mar 2  | Midterm 2                                     |[Miniproject 5](https://hackmd.io/KwZgpgJgRgHDIFpgBZgGMHLWg7AgnAGZYKEBMADNvjGAIZTJRA==?view)
        | **Week 8**                                    |
 Mar 5  | [Parametric](/NSC-Math-182/GPParametric.html) |
 Mar 7  | Parametric continued                          |
-Mar 9  | [Polar](/NSC-Math-182/GPPolar.html)           | Parametric
+Mar 9  | [Polar](/NSC-Math-182/GPPolar.html)           | Parametric, [Miniproject 6](https://hackmd.io/KwZgpgJgRgHDIFpgBZgGMHLWg7AgnAGZYKEBMADNvjGAIZTJRA==?view)
        | **Week 9**                                    |
 Mar 12 | Polar Continued                               |
 Mar 14 | [7.1](/NSC-Math-182/GP7.1.html)               | Polar
