@@ -3,11 +3,11 @@ layout: default
 title: Guided Practice 8.3
 ---
 
-# Guided Practice for 8.3: Geometric Series
+# Guided Practice for 8.3: Series of Real Numbers
 
 ## Overview
 
-A sequence of numbers is an ordered list of numbers. In this section we move from continuous functions to discrete functions and determine what convergence means for sequences.
+In this section we learn several tests that allow us to determine whether a series converges or diverges.
 
 ## Learning objectives
 
@@ -27,7 +27,7 @@ __Advanced objectives__: The following objectives are the subject of class discu
 
 To gain proficiency in the learning objectives, use the following resources. You may include other resources if you wish, in addition to or in replacement of the following.
 
-__Textbook__: In _Active Calculus_, read Section 8.2. Make sure to read actively, working through examples and activities as you go.
+__Textbook__: In _Active Calculus_, read Section 8.3. Make sure to read actively, working through examples and activities as you go.
 
 __Video__: Watch the following videos.
 

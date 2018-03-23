@@ -8,7 +8,7 @@ title: Guided Practice 8.2
 
 ## Overview
 
-A sequence of numbers is an ordered list of numbers. In this section we move from continuous functions to discrete functions and determine what convergence means for sequences.
+Geometric series have a common ratio between successive terms. These series have a beautiful formula, and they show up in a wide range of applications.
 
 ## Learning objectives
 
