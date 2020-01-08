@@ -56,7 +56,7 @@ Attaining a __PASS__ grade on one of these items requires that you be aware of t
 
 In reality, these errors are closely linked together, and an error in one category usually introduces an error in one of the others. The general rule for Math 182 is: __Work on Problems and Miniprojects must be almost, if not  entirely free of all of the above kinds of error in order to be assessed at the PASS level; and there can be no significant instances of any of these errors.__ That is, a small number of minor errors can be tolerated as long as they do not make the answer incorrect (for Problems) or significantly obscure the thought process in the solution. But large numbers of minor errors, or a single instance of a major error, will result in the problem being marked as __No PASS__.
 
-For these items, we will often refer to the __standard audience for Math 181__, which is defined to be:
+For these items, we will often refer to the __standard audience for Math 182__, which is defined to be:
 
 >The standard audience in Math 182 consists of classmates in Math 182 who are familiar with the mathematical ideas discussed in the class and have the appropriate background knowledge for the class, but who are unfamiliar with the particular problem whose solution you are presenting and therefore need to be persuaded that your solution is correct and your conclusions believable.
 
