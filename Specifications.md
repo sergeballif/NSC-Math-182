@@ -74,7 +74,7 @@ In Problems and Miniprojects it is crucial that you __not only give an answer or
 
 ### Specifications for formatting submissions
 
-+ Submissions of  Miniprojects must be either typed or neatly handwritten and submitted via Canvas as PDF files. Files that are submitted in some other form besides PDF will be marked as __No PASS__ and returned to the author without feedback.
++ Submissions of  Miniprojects must be either typed or neatly handwritten and submitted via Canvas as a link to a HackMD page. Files that are submitted in any other form will be marked as __No PASS__ and returned to the author without feedback.
 
 ### Specifications for graphical elements
 
