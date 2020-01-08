@@ -27,7 +27,7 @@ Feb 21 | 6.2 continued                                 | [Miniproject 3](https:/
        | **Week 6**                                    |
 Feb 24 | [6.3](/NSC-Math-182/GP6.3.html)               | 6.2
 Feb 26 | [6.4](/NSC-Math-182/GP6.4.html)               | 6.3
-Feb 8  | [6.5](/NSC-Math-182/GP6.5.html)               | 6.4, [Miniproject 4](https://hackmd.io/KwZgpgJgRgHDIFpgBZgGMHLWg7AgnAGZYKEBMADNvjGAIZTJRA==?view)
+Feb 28 | [6.5](/NSC-Math-182/GP6.5.html)               | 6.4, [Miniproject 4](https://hackmd.io/KwZgpgJgRgHDIFpgBZgGMHLWg7AgnAGZYKEBMADNvjGAIZTJRA==?view)
        | **Week 7**                                    |
 Mar 2  | 6.5 continued                                 |
 Mar 4  | Review                                        | 6.5
