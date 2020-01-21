@@ -90,7 +90,7 @@ A successful Math 182 student will demonstrate evidence of mastery of each of th
     * Identify intervals of convergence for a power series.
 
 ## Quick Grade Summary
-Look at the checklist below. The short version is that you want to get as many checkmarks in each of the seven categories as possible. Hover and click on the image below for a quick summary of each category. The [Schedule](NSC-Math-182/index.html) tells when outside work is due and the [Specifications](NSC-Math-182/Specifications.html) give the details on how to get a checkmark.
+The table below describes the minimum requirement to attain each grade level. The [Schedule](NSC-Math-182/index.html) tells when outside work is due and the [Specifications](NSC-Math-182/Specifications.html) give the details on how to earn a __PASS__.
 
 ![Grading Summary](assets/images/GradeSummary2020.PNG)
 
