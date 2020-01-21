@@ -103,8 +103,7 @@ __Video materials:__ All course pre-lectures are on a YouTube playlist at [http:
 __Software:__ The course uses three software tools:
 
 * [Canvas](http://nsc.instructure.com) is the course management system where our course home page is hosted.
-* [Desmos](https//desmos.com) , a free program for graphing functions and building models. Guided Practice assignments will be completed using Desmos.
-* WeBWorK is our online homework system. WeBWorK can be accessed using the link in the left-hand menu of our Canvas course.
+* [Desmos](https//desmos.com) , a free program for graphing functions and building models. 
 
 
 ## Assigned Work
@@ -115,8 +114,8 @@ The work you do in the course has two purposes: To help you make sense of the co
 through Guided Practice.
 * __WeBWorK Journal:__ Students will record their work on WeBWorK homework problems following the specification guidelines.
 * __Daily Quizzes:__ At the beginning of each class period where we begin lecture on a new section we will have a quiz to assess how well you have mastered the material of the previous day.
-* __Problems:__ The objectives of the course can be broken down into 17 distinct types of problems. Samples of these 16 types are posted to the Blackboard site. Within these 16 types. These problems are more complex and challenging than those found on Guided Practice, Online Homework, or Concept Quizzes and include elements of each of these. Your ability to solve these problems will be assessed through three Midterm Exams and a Final Exam, described more fully below.
-* __Miniprojects:__  In addition to the Problems, eleven miniprojects that involve using course technology are available, with 4 of those 8 labelled as core and 4 more outside the core. Miniprojects focus on realworld applications and the use of realworld data and, especially, the use of technology to model and solve problems involving calculus.
+* __Problems:__ The objectives of the course can be broken down into 17 distinct types of problems. Within these 16 types. These problems are more complex and challenging than those found on Guided Practice, Online Homework, or Quizzes and include elements of each of these. Your ability to solve these problems will be assessed through three Midterm Exams and a Final Exam, described more fully below.
+* __Miniprojects:__  In addition to the Problems, eleven miniprojects that involve using course technology are available. Miniprojects focus on realworld applications and the use of realworld data and, especially, the use of technology to model and solve problems involving calculus.
 
 
 __Grading System__
