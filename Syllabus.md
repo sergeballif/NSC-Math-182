@@ -9,7 +9,7 @@ published: true
 __Instructor:__ Serge Ballif  
 __Email:__ Please use the Piazza discussion board in the left panel of Canvas.  
 __Telephone:__ (702) 992-2613  
-__Office Hours:__ NSE 114 Mon/Wed/Fri 8:45-9:20, Tue/Thu 2:30-3:30 Drop by my office any time for help.
+__Office Hours:__ NSE 114 Mon/Wed/Fri 9:00-9:30, 12:30-1:00 Drop by my office any time for help.
 
 ## Course Learning Outcomes
 A successful Math 182 student will demonstrate evidence of mastery of each of the following learning  outcomes:
@@ -125,9 +125,7 @@ Math 182 uses a **points-free mastery-based grading system** that is designed to
 * **The means of assessing your graded work in the class is done without using points**. Instead, your work is graded on a two-level scale of **Pass/No Pass** or on a three level scale of **Mastery/Progressing/Novice**. Whenever you submit work to be graded, I will employ my best professional judgment along with a clear list of specifications for categorizing that work. The specifications for your work are provided in a separate document, and you should make yourself intimately familiar with that document. Your Guided Practice, WeBWorK Homework, WeBWorK Journals, and Daily Quizzes are graded on a Pass/No Pass basis; Problems, Miniprojects, and Teaching Items are graded using Mastery/Progressing/Novice designations.
 * The grade you earn at the end of the semester is determined by counting the number of items in each category that you complete at an acceptable level . There are no points involved and no statistical or numerical calculations.
 
-The table for determining your grade is given below. For reference: there are a total of 24 problems and miniprojects, 10 of which are considered core and 14 of which are outside the core. Also, there will be 27 daily quizzes, 27 guided practice assignments, and 220 points of online homework. See the [Specifications for Student Work](NSC-Math-182/Specifications.html) page to see what it means to obtain a __Pass__ or a __Mastery__.
-
-The table below shows the minimum requirement to attain
+The table for determining your grade is given below. See the [Specifications for Student Work](NSC-Math-182/Specifications.html) page to see what it means to obtain a __Pass__ or a __Mastery__. The table below shows the minimum requirement to attain each letter grade.
 
 ![A Grade Checklist](assets/images/GradeChecklist2020.PNG)
 
@@ -139,7 +137,7 @@ __Revisions:__ Instead of partial credit, you will receive numerous opportunitie
 
 * Online homework gives instant feedback on correctness when you submit it. **You are allowed unlimited reattempts on every online homework item** until the due date.
 * **Each Daily Quiz can be attempted twice without penalty** (an initial attempt + one reattempt in my office). Further reattempts can be “purchased” using tokens (see below).
-* Problems are assessed on Midterm and Final exams. Each of the Midterm Exams past the first one as well as the Final Exam is cumulative . The first midterm exam will have four problems on it, the second one eight problems, the third around twelve, and the fourth midterm and final will include all 17 problems. **In this way if you do not perform well on a problem on one midterm exam, you can try again on a subsequent one.** Conversely, once you finish enough problems at Mastery level for the grade you want, you can opt out of the exams. It’s not uncommon for many students not to take the final exam because they have already “leveled up” to their target grade by the time of the exam.
+* Problems are assessed on Midterm and Final exams. Each of the Midterm Exams past the first one as well as the Final Exam is cumulative . The first midterm exam will have four problems on it, the second one eight problems, the third around twelve, and the fourth midterm and final will include all 16 problems. **In this way if you do not perform well on a problem on one midterm exam, you can try again on a subsequent one.** Conversely, once you finish enough problems at Mastery level for the grade you want, you can opt out of the exams. It’s not uncommon for many students not to take the final exam because they have already “leveled up” to their target grade by the time of the exam.
 * **Any miniproject submission that does not attain Mastery level can be revised and resubmitted for regrading.** You can submit up to one miniproject per week for regrading (in addition to any new submissions). Miniprojects that attain Progressing level can be resubmitted without penalty. Miniprojects assessed at Novice level can be resubmitted if you spend a token (below).
 *
 _Note_: Guided Practice assignments may not be revised or submitted late. These must be completed at the stated deadline or they receive a permanent No Pass.
