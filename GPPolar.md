@@ -32,7 +32,7 @@ __Video__: Watch the following videos.
 - [Basic Graphing](https://youtu.be/rHnbyuBSLRQ) (6:50)
 - [Plotting Polar Curves 1](https://youtu.be/mDT_DG_A0JA) (6:56)
 - [Plotting Polar Curves 2](https://youtu.be/GMcRqtm4mNo) (2:38)
-- [Finding Areas](https://youtu.be/GMcRqtm4mNoA) (8:48)
+- [Finding Areas](https://www.youtube.com/RrVEuywFhjg) (8:49)
 
 
 ## Activities
