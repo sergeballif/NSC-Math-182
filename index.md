@@ -43,26 +43,26 @@ Mar 20 | [7.2](/NSC-Math-182/GP7.2.html)               | 7.1, [Miniproject 7](ht
        | **Week 10**                                    |
        | Spring Break 
        | **Week 11**                                   |
-Mar 30 | [7.3](/NSC-Math-182/GP7.3.html)               | 7.2
-Apr 1  | [7.4](/NSC-Math-182/GP7.4.html)               | 7.3
-Apr 3  | [7.5](/NSC-Math-182/GP7.5.html)               | 7.4
+Mar 30 | [7.3](/NSC-Math-182/GP7.3.html)  [vid](https://nsc.yuja.com/V/Video?v=336843&node=1630871&a=955719313&autoplay=1)           | 7.2
+Apr 1  | [7.4](/NSC-Math-182/GP7.4.html)  [vid](https://nsc.yuja.com/V/Video?v=338199&node=1637805&a=481949491&autoplay=1)             | 7.3
+Apr 3  | [7.5](/NSC-Math-182/GP7.5.html)  [vid](https://nsc.yuja.com/V/Video?v=339462&node=1642980&a=975635435&autoplay=1)             | 7.4
        | **Week 12**                                   |
-Apr 6 | [7.6](/NSC-Math-182/GP7.6.html)               | 7.5
-Apr 8  | Review                                        | 7.6
+Apr 6 | [7.6](/NSC-Math-182/GP7.6.html)   [vid](https://nsc.yuja.com/V/Video?v=340954&node=1646954&a=1483736431&autoplay=1)            | 7.5
+Apr 8  | Review   [vid](https://nsc.yuja.com/V/Video?v=342676&node=1653114&a=2026316451&autoplay=1)                                     | 7.6
 Apr 10  | Midterm 3                                     | [Miniproject 8](https://hackmd.io/KwZgpgJgRgHDIFpgBZgGMHLWg7AgnAGZYKEBMADNvjGAIZTJRA==?view)                                 |
        | **Week 13**                                   |
-Apr 13  | [8.1](/NSC-Math-182/GP8.1.html)               |
-Apr 15 | [8.2](/NSC-Math-182/GP8.2.html)               | 8.1
-Apr 17 | [8.3](/NSC-Math-182/GP8.3.html)               | 8.2, [Miniproject 9](https://hackmd.io/KwZgpgJgRgHDIFpgBZgGMHLWg7AgnAGZYKEBMADNvjGAIZTJRA==?view)
+Apr 13  | [8.1](/NSC-Math-182/GP8.1.html)  [vid](https://nsc.yuja.com/V/Video?v=345153&node=1664375&a=658330613&autoplay=1)             |
+Apr 15 | [8.2](/NSC-Math-182/GP8.2.html)  [vid](https://nsc.yuja.com/V/Video?v=346406&node=1669473&a=973993718&autoplay=1)             | 8.1
+Apr 17 | [8.3](/NSC-Math-182/GP8.3.html)  [vid](https://nsc.yuja.com/V/Video?v=347900&node=1674359&a=254467232&autoplay=1)             | 8.2, [Miniproject 9](https://hackmd.io/KwZgpgJgRgHDIFpgBZgGMHLWg7AgnAGZYKEBMADNvjGAIZTJRA==?view)
        | **Week 14**                                   |
-Apr 20 | 8.3 continued                                 |
-Apr 22 | [8.4](/NSC-Math-182/GP8.4.html)               | 8.3
-Apr 24 | [8.5](/NSC-Math-182/GP8.5.html)               | 8.4, [Miniproject 10](https://hackmd.io/KwZgpgJgRgHDIFpgBZgGMHLWg7AgnAGZYKEBMADNvjGAIZTJRA==?view)
+Apr 20 | 8.3 continued  [vid](https://nsc.yuja.com/V/Video?v=348849&node=1677806&a=700485244&autoplay=1)                               |
+Apr 22 | [8.4](/NSC-Math-182/GP8.4.html)  [vid](https://nsc.yuja.com/V/Video?v=350080&node=1682533&a=1248889282&autoplay=1)             | 8.3
+Apr 24 | [8.5](/NSC-Math-182/GP8.5.html)  [vid](https://nsc.yuja.com/V/Video?v=351719&node=1687094&a=1894110388&autoplay=1)             | 8.4, [Miniproject 10](https://hackmd.io/KwZgpgJgRgHDIFpgBZgGMHLWg7AgnAGZYKEBMADNvjGAIZTJRA==?view)
        | **Week 15**                                   |
-Apr 27 | 8.5 continued                                 |
-Apr 29 | [8.6](/NSC-Math-182/GP8.6.html)               | 8.5
-May 1  | 8.6 continued                                 |[Miniproject 11](https://hackmd.io/KwZgpgJgRgHDIFpgBZgGMHLWg7AgnAGZYKEBMADNvjGAIZTJRA==?view)
+Apr 27 | 8.5 continued   [vid](https://nsc.yuja.com/V/Video?v=353281&node=1691492&a=385357869&autoplay=1)                              |
+Apr 29 | [8.6](/NSC-Math-182/GP8.6.html)  [vid](https://nsc.yuja.com/V/Video?v=354634&node=1696682&a=1115976588&autoplay=1)            | 8.5
+May 1  | 8.6 continued    [vid](https://nsc.yuja.com/V/Video?v=365548&node=1711745&a=1424622056&autoplay=1)                             |[Miniproject 11](https://hackmd.io/KwZgpgJgRgHDIFpgBZgGMHLWg7AgnAGZYKEBMADNvjGAIZTJRA==?view)
        | **Week 16**                                   |
-May 4  | Review Day                                    | 8.6
+May 4  | Review Day   [vid](https://nsc.yuja.com/V/Video?v=366588&node=1717069&a=1485874723&autoplay=1)                                 | 8.6
 May 6  | Final Exam                                    |
 May 8  |                                               |
