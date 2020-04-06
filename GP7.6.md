@@ -28,8 +28,8 @@ __Textbook__: In _Active Calculus_, read Section 7.6. Make sure to read actively
 
 __Video__: Watch the following videos.
 
-- [Quick Recap - Modeling with Differential Equations](https://www.youtube.com/watch?v=xkBbrEfIAXk&t=0s&list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&index=62) (4:17)
-- [Mixture Problem](https://www.youtube.com/watch?v=sJV_ZJTO6H4&t=0s&list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&index=63) (13:33)
+- [Setting up a Logistic D.E.](https://www.youtube.com/watch?v=DJBxI4eZLz4&list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&index=87&t=0s) (8:48)
+- [Solving a Logistic D.E.](https://www.youtube.com/watch?v=MeIuoN6kzes&list=PL9bIjQJDwfGtewW75Nw7PnGNSkfqwAm3v&index=83&t=0s) (8:54)
 
 
 ## Activities
